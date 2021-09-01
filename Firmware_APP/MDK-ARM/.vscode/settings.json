@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "stm32f1xx.h": "c",
+    "stockpile_f103cb.h": "c",
+    "stockpile_config.h": "c",
+    "main.h": "c",
+    "stm32f1xx_hal.h": "c",
+    "stm32f1xx_hal_conf.h": "c"
+  }
+}
